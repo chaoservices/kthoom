@@ -1,3 +1,3 @@
 # kthoom
-Automatically exported from code.google.com/p/kthoom
+Exported from code.google.com/p/kthoom
 
