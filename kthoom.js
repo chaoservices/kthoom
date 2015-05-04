@@ -68,7 +68,8 @@ var library = {
   allBooks: [],
   currentBookNum: 0,
 };
-  
+
+//various states
 var hflip = false, vflip = false, fitMode = kthoom.Key.B;
 var canKeyNext = true, canKeyPrev = true;
 
